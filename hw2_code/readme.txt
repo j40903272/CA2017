@@ -1,0 +1,10 @@
+1.
+在讀完檔案和轉為int之後
+根據operator去不同的branch做不同操作
+然後在itoa的部分把運算結果的四個位數分開
+存到output_ascii的陣列的每個byte裡面
+最後加上一個function
+當遇到unsupport operator和divide 0的時候呼叫
+印出"XXXX"和結束執行
+
+2. 使用windows
